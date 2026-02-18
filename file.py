@@ -1,1 +1,2 @@
-hii fuck you
+a ="hii fuck you"
+print(a)
